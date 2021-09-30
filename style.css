@@ -2,3 +2,11 @@
     background-image: url('img/background.jpg');
     background-size: cover;
   }
+
+  h1, h2 {
+    line-height: 2;
+}
+
+h2 {
+    color:red;
+}
